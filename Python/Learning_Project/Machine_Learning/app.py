@@ -7,3 +7,4 @@
 # 6 - make predictions
 # 7 - evaluate and improve
 
+# Using Jupter
