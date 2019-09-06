@@ -2,15 +2,8 @@
 from random import *
 
 bills = (100, 50, 20, 10, 5)
-i = 0
-p = 0
-b = 1
 cash = True
-sum = 0
-billu = []
 divlist = []
-rangtotal = []
-mult = 0
 
 print("==============================================")
 print("|| Hello to Rybakovas ATM Withdrawal System ||")
@@ -36,9 +29,7 @@ try:
                 else:
                     withdrawal = withdrawal - (divlist[0] * bill)
                     print("{} bill {}".format(divlist[0], bill))
-                #print(withdrawal)
 
-        #print(withdrawal)
         cash = False
 
 except ValueError:
