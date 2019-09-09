@@ -1,4 +1,4 @@
-#You are given a space separated list of integers.
+# You are given a space separated list of integers.
 # If all the integers are positive, then you need to check if any integer is a palindromic integer.
 # Input Format
 #
