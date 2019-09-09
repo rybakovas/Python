@@ -14,7 +14,7 @@ for number in numbers:
 print(result)
 
 # Read an integer N.
-# Without using any string methods, try to print the following:
+# Using any methods, try to print the following:
 # 123...n
 # Note that "..." represents the values in between.
 # Input Format
@@ -25,5 +25,6 @@ print(result)
 # 3
 # Sample Output 0
 # 123
+#
 
 # By Victor Rybakovas Sep 2019 - http://bit.ly/linkedin-victor
